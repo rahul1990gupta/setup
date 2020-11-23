@@ -31,3 +31,6 @@ sudo apt install guake tree
 
 # Install google-cloud-sdk 
 sudo apt install google-cloud-sdk 
+
+# Install Jupyter notebook server 
+sudo apt install jupyter 
